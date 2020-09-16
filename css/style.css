@@ -1,0 +1,90 @@
+body{
+color: #40514E;
+text-align: center;
+}
+.p1{
+  font-weight: normal;
+}
+h1{
+  color:  #66BFBF;
+  font-family: Sacramento,sans-serif;
+}
+h2{
+  color:  #66BFBF;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+h3{padding-top: 10px;
+  padding-bottom: 0;
+  color: #11999E;
+}
+p{
+  text-align:
+
+  font-family: Montserrat,monospace;
+}
+.top-container{
+  background-color: #E4F9F5;
+}
+
+.top-container{
+  padding-top: 50px;
+}
+
+.cloud1{
+  position: absolute;
+  top: 50px;
+
+}
+.cloud2{
+  position: absolute;
+  left: 10px;
+}
+.cloud3{
+  position: absolute;
+  right: 80px;
+}
+.cloud4{
+  position: absolute;
+  top:10px;
+  right: 40px;
+}
+.intro{
+  width: 30%;
+  margin: auto;
+}
+.middle-container{
+  margin: 100px 0;
+}
+.skill1{
+  margin-left: 2rem;
+  float: right;
+       width: 10%;
+}
+.bottom-container{
+  background-color: #11999E;
+}
+.myimage{
+
+
+  width: 10%;
+}
+.web-devlopment{
+  margin-right: 2rem;
+  float: left;
+  width: 10%;
+}
+hr{
+  background-color: white;
+border-style: none;
+border-top-style: dotted;
+border-color: grey;
+border-width: 5px;
+width: 5%;
+border-spacing: 10px;
+
+}
+.contact-me{
+  width: 400px;
+  margin: 40px auto 60px;
+}
